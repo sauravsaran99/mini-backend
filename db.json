@@ -1,0 +1,29 @@
+{
+    "employee": [
+        {
+            "name": "saurav",
+            "age": "24",
+            "gender": "male",
+            "department": "IT",
+            "salary": "8LPA"
+
+        },
+
+        {
+            "name": "kritika",
+            "age": "24",
+            "gender": "female",
+            "department": "IT",
+            "salary": "11LPA"
+
+        },
+        {
+            "name": "rav",
+            "age": "22",
+            "gender": "male",
+            "department": "IT",
+            "salary": "6LPA"
+
+        }
+    ]
+}
